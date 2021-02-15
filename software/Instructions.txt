@@ -1,0 +1,10 @@
+Instructions to run the Python file:
+
+1. Extract all the images and GDoeSII to a folder
+2. Change the base_path = 'folder location' (line no 38) to the above folder
+3. Run the code
+
+Instruction to run the GDoeSII.exe:
+
+1. Extract the EXE file on to your Windows (7 or above) PC
+2. Run or double click the program
